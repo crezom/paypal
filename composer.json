@@ -19,5 +19,20 @@
             "email": "meldinxavier@gmail.com"
         }
        
-    ]
+    ],
+    "repositories": [
+    {
+        "type": "package",
+        "package": {
+            "name": "crezom/paypal",
+            "version": "1.00",
+            "source": {
+                "url": "git://github.com/crezom/paypal.git",
+                "type": "git",
+                "reference": "master"
+            },
+            
+        }
+    }
+],
 }
