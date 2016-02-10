@@ -1,2 +1,2 @@
 # paypal
-Paypal Class
+Paypal Class for payment 
