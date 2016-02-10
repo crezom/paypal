@@ -1,0 +1,23 @@
+{
+    "name": "crezom/paypal",
+    "type": "library",
+    "description": "PayPal gateway",
+    "keywords": [
+        "gateway",
+        "merchant",
+        "crezom",
+        "pay",
+        "payment",
+        "paypal",
+        "purchase"
+    ],
+    "homepage": "https://github.com/crezom/paypal",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Meldin Xavier",
+            "email": "meldinxavier@gmail.com"
+        }
+       
+    ]
+}
